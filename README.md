@@ -22,26 +22,25 @@ Pari Foundation is a non-profit organization committed to creating a positive im
 - **Projects:** Details of current and past projects, showcasing the impact made in various communities.
 - **Get Involved:** Opportunities for supporters to contribute, volunteer, or donate to the foundation,mail implementation.
 - **Contact Us:** A contact form and relevant contact details for inquiries and collaboration.
+- **and further internal pages included**
 
 ## Technologies Used
 
-- HTML5, CSS3, JavaScript
-- React.js for dynamic and responsive user interfaces
-- Node.js and Express for the backend
+- HTML5, CSS3, JavaScript(frameworks)
+- PHP laravel for the backend
 - GitHub for version control and collaboration
 
 ## Getting Started
 
-1. Clone the repository: `git clone https://github.com/atoms-group/pari-foundation-website.git`
+1. Clone the repository: `From above`
 2. Navigate to the project directory: `cd pari-foundation-website`
 3. Install dependencies: `npm install`
-4. Run the application: `npm start`
+4. Run the application: `@ xampp and local server at phpmyadmin`
 
-For detailed steps on setting up the development environment, refer to the [CONTRIBUTING.md](CONTRIBUTING.md) file.
 
 ## Contributing
 
-We welcome contributions from the community. If you'd like to contribute, please refer to our [Contribution Guidelines](CONTRIBUTING.md).
+We welcome contributions from the community. 
 
 ## License
 
@@ -49,4 +48,3 @@ This project is licensed under the [MIT License](LICENSE).
 
 Thank you for your interest and support in the Pari Foundation project!
 
-For more information, visit the live website: [Pari Foundation](https://parifoundation.org)
