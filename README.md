@@ -1,4 +1,4 @@
-# Pari Foundation - NGO Website  <a href="https://www.figma.com/proto/dAGHeus7Bt9oncSx0sipKS/Pari-Foundation?type=design&node-id=3-550&t=QLOUcNBbML6PqFhz-0&scaling=min-zoom&page-id=0%3A1" target="_blank"> UI demo </a>
+# Pari Foundation - NGO Website  <a href="https://www.figma.com/proto/dAGHeus7Bt9oncSx0sipKS/Pari-Foundation?type=design&node-id=3-550&t=QLOUcNBbML6PqFhz-0&scaling=min-zoom&page-id=0%3A1" target="_blank"> demo </a>
 
 Welcome to the official repository of the Pari Foundation's website developed by the Atoms Group. This project aims to showcase the noble initiatives and activities undertaken by the foundation, promoting transparency and accessibility.
 
